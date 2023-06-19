@@ -1,0 +1,30 @@
+PYTHON: A popular programming language.
+GUITAR: A musical instrument with strings.
+BANANA: A yellow tropical fruit.
+DOCTOR: A person who practices medicine.
+MONKEY: A primate animal found in the jungle.
+PURPLE: A color between blue and red.
+SPRING: The season between winter and summer.
+TURTLE: A slow-moving reptile with a shell.
+POLICE: Law enforcement officers.
+CANDLE: A wax stick with a wick that provides light.
+JUNGLE: Dense vegetation found in tropical areas.
+TIGER: A large predatory cat with stripes.
+FLOWER: The reproductive structure of a plant.
+WINTER: The coldest season of the year.
+ROCKET: A vehicle that travels through space.
+COOKIE: A sweet baked treat.
+PENCIL: A writing instrument.
+SUNSET: The daily disappearance of the sun below the horizon.
+SHOWER: A device for bathing with water spray.
+BATTLE: A fight between two or more forces.
+WIZARD: A magical and wise person.
+GARDEN: A piece of land used for growing plants.
+CAMERA: A device used for taking photographs.
+PUZZLE: A game or toy that tests one's mental skills.
+CLOUDS: Visible masses of water droplets in the sky.
+COFFEE: A popular caffeinated beverage.
+DESERT: A barren and arid land with little rainfall.
+STORMY: Characterized by strong winds and rain.
+SAILOR: A person who works on a ship.
+POETRY: Literary work that uses rhythmic and metaphorical language.
